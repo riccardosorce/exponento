@@ -1,3 +1,4 @@
+import numpy as np
 import streamlit as st
 import plotly.express as px
 import pandas as pd
@@ -6,7 +7,6 @@ from pyxlsb import open_workbook as open_xlsb
 import warnings
 import xlsxwriter 
 import subprocess
-import numpy as np
 import openpyxl as op
 import plotly.figure_factory as ff
 import pyarrow as pa
