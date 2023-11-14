@@ -1,2 +1,1 @@
-pip install pipreqs
-pipreqs /riccardosorce/exponento/BI_DASHBOARD.py
+pip install streamlit plotly plotly.express pandas io pyxlsb warnings xlsxwriter subprocess numpy openpyxl plotly.figure_factory pyarrow time datetime scipy seaborn matplotlib matplotlib_inline matplotlib.pyplot sklearn.cluster
