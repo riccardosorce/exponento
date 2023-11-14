@@ -20,6 +20,8 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 
 
+
+
 st.set_page_config(page_title="Exponento", layout="wide")
 st.title("BUSINESS INTELLIGENCE")
 
