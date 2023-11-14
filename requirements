@@ -1,1 +1,2 @@
-streamlit plotly plotly.express pandas io pyxlsb warnings xlsxwriter subprocess numpy openpyxl plotly.figure_factory pyarrow time datetime scipy seaborn matplotlib matplotlib_inline matplotlib.pyplot sklearn.cluster
+pip freeze > requirements.txt
+pip install -r requirements.txt
