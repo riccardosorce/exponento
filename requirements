@@ -1,1 +1,1 @@
-pip install streamlit plotly plotly.express pandas io pyxlsb warnings xlsxwriter subprocess numpy openpyxl plotly.figure_factory pyarrow time datetime scipy seaborn matplotlib matplotlib_inline matplotlib.pyplot sklearn.cluster
+streamlit plotly plotly.express pandas io pyxlsb warnings xlsxwriter subprocess numpy openpyxl plotly.figure_factory pyarrow time datetime scipy seaborn matplotlib matplotlib_inline matplotlib.pyplot sklearn.cluster
